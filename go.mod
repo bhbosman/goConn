@@ -1,6 +1,6 @@
 module github.com/bhbosman/goConn
 
-go 1.20
+go 1.24.0
 
 require (
 	github.com/bhbosman/goerrors v0.0.0-20250307194237-312d070c8e38
